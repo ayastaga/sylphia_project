@@ -1,0 +1,35 @@
+.option>* {
+    display: inline;
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+.option input {
+    font-size: 15px;
+}
+
+.hover-tooltip {
+    border-bottom: 1px dotted #000;
+    border-color: red;
+    cursor: help;
+}
+
+.preview-btn {
+    float: right;
+    font-size: 16px;
+}
+
+.preview-btn:active {
+    background-color: darkgrey;
+    color: white;
+    border-color: white;
+}
+
+.preview-image {
+    padding-top: 20px;
+    width: 790px;
+    height: 500px;
+    object-fit: cover;
+    object-position: 0 0;
+    display: block;
+}
