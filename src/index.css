@@ -1,0 +1,12 @@
+* {
+  font-family: monospace;
+}
+
+.container-main {
+  margin: auto;
+  margin-top: 50px;
+  border-radius: 10px;
+  max-width: 800px;
+  border: 1px solid lightgrey;
+  padding: 20px;
+}
