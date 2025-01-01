@@ -1,0 +1,33 @@
+.description {
+    font-size: 16px;
+}
+
+.description h3 {
+    font-weight: normal;
+}
+
+.heading {
+    margin-top: 5px;
+    margin-bottom: 15px;
+    font-size: 55px;
+    text-align: center;
+}
+
+.collapsible-button {
+    border: none;
+    padding: 10px;
+    background-color: rgb(0, 153, 255);
+    color: white;
+    font-size: 16px;
+    width: 100%;
+}
+
+.collapsible-button:hover {
+    background-color: rgb(2, 140, 232)
+}
+
+.description-content {
+    border: 1px solid lightgrey;
+    padding: 20px;
+    margin-top: -20px;
+}
